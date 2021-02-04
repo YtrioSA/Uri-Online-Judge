@@ -1,2 +1,2 @@
 # Uri-Online-Judge
-Soluçãoes nas linguagens Python &amp; Golang.
+Soluções nas linguagens Python &amp; Golang.
